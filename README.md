@@ -1,1 +1,1 @@
-# day2-product-cart
+# Day02_Boilerplate
